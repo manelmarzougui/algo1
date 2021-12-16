@@ -1,0 +1,6 @@
+fonction phrase
+ph:string
+var
+repeter
+lire t[i]
+jusqua t[i]=.
